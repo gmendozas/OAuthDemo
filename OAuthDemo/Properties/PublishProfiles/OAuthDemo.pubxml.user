@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\extsistmovilidad31\Documents\ECO\2015\Junio\24062015</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>06/24/2015 13:21:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>06/24/2015 13:12:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>06/24/2015 13:12:29</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>06/24/2015 13:17:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>06/24/2015 13:17:23</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/24/2015 12:55:58</publishTime>
+    </File>
+    <File Include="bin/OAuthDemo.dll">
+      <publishTime>06/24/2015 14:47:01</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>06/24/2015 13:12:29</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>06/24/2015 13:12:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>06/24/2015 13:21:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>06/24/2015 13:12:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>06/24/2015 13:12:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>06/24/2015 12:55:59</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/24/2015 13:21:31</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/24/2015 14:47:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
